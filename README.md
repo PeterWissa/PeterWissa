@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning/trying to master JavaScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm only 13 years old
-- 🇪🇬 Another fun fact:  I'm Egyption
+- 🇪🇬 Another fun fact:  I'm Egyptian
 
 
 <!--
