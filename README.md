@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm only 13 years old
 - 🇪🇬 Another fun fact:  I'm Egyptian
-- 👦 I started coding when I was 11 years old
+- 👦 I started my programming journey when I was only 11 years old
 
 
 <!--
