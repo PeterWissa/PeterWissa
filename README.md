@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a website, a discord bot, a minecraft plugin, and a game coded with unity
+- 🔭 I’m currently working on a website(html,css,js), a discord bot(js,json), a minecraft plugin(java), and a game coded with unity(C#)
 - 📚 Currently doing harvard's edx classes
 - 🌱 I’m currently learning/trying to master JavaScript
 - 😄 Pronouns: He/Him
