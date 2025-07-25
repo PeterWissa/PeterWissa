@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a website(html,css,js), a discord bot(js,json), a minecraft plugin(java), and a game coded with unity(C#)
+- 🔭 Developing a personal site, WordPress projects, and Unity-based C# apps and games
 
-- 🖥️ I've built multiple computers and have made money on some
+- 🖥️ Skilled at building computers and repairing iPhones...Also skilled at breaking them five minutes later
 
-- 📚 Currently doing harvard's edx classes
+- 📚 Learning Python and Java through college courses
 
-- 🌱 I’m currently learning/mastering JavaScript
+- 🎒 Full-time high school student
 
-- 😄 Pronouns: He/Him
+- 🌱 Exploring web development projects in my spare time (and occasionally screaming at them)
 
-- ⚡ Fun fact: I'm only 14 years old
+- 🇪🇬 Proudly Egyptian
 
-- 🇪🇬 Nationality: Egypt
-
-- 👦 I started my programming journey when I was only 11 years old
+- 👦 Got into programming at 11 and haven’t seen daylight since
